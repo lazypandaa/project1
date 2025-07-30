@@ -1,9 +1,9 @@
 {
-  "name": "project1",
+  "name": "ClauseNaut",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lazypandaa.github.io/project1/",
+  "homepage": "https://lazypandaa.github.io/ClauseNaut/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
